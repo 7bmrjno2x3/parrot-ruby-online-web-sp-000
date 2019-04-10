@@ -2,5 +2,5 @@
 # returns the phrasea
 def parrot()
   puts "Squawk!"
-  return "Squawk!"
+  "Squawk!"
 end
